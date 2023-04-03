@@ -23,7 +23,6 @@ A curated list of awesome ALPACA and related applications
 + [flan-alpaca](https://github.com/declare-lab/flan-alpaca) 
 + [Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) 
 + [ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning) 
-+ [flan-alpaca](https://github.com/declare-lab/flan-alpaca) 
   
 
 <a name="dataset" />
